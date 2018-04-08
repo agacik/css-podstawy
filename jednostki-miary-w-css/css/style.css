@@ -1,0 +1,52 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-image: linear-gradient(-90deg, #051937, #00436b, #00728c, #00a291, #47cf7c);
+}
+
+#cointainer {
+    font-size: 30px;
+}
+
+#cointainer > div {
+    background-image: linear-gradient(-90deg, #F9F871, #9EE0D8);
+    margin-bottom: 20px;
+}
+
+#pixel {
+    width: 400px;
+}
+
+#em {
+    width: 15em;
+}
+
+#ex {
+    width: 40ex;
+}
+
+#rem {
+    width: 10rem;
+}
+
+#procenty {
+    width: 40%;
+}
+
+#vw {
+    width: 40vw;
+}
+
+#vh {
+    width: 40vh;
+}
+
+#vmin {
+    width: 40vmin;
+}
+
+#vmax {
+    width: 40vmax;
+}
