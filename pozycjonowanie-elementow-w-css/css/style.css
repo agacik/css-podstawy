@@ -1,4 +1,16 @@
 body {
-    background-color: #FF3864;
+    background: linear-gradient(-90deg, #FF3864, gold);
 }
 
+#pierwszy {
+    background-color: #E1EFE6;
+    width: 600px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#drugi {
+    background-color: #87BBA2;
+    width: 600px;
+    height: 100px;
+}
