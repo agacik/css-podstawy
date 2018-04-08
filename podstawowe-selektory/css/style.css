@@ -13,3 +13,11 @@ p {
 a, span, div {
     background-color: #E0CA3C;
 }
+
+li > a {
+    background-color: #44CF6C;
+}
+
+ul a {
+    background-color: #6C464E;
+}
