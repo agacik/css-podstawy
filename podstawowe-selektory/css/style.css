@@ -1,5 +1,5 @@
 body {
-    background-color: #053C5E;
+    background-color: #28536B;
 }
 
 p {
@@ -19,5 +19,18 @@ li > a {
 }
 
 ul a {
-    background-color: #6C464E;
+    background-color: #151515;
 }
+
+h1 + p {
+    color:pink;
+}
+
+ul#lista li:not(.last) {
+    background-color: crimson;
+}
+
+ul#lista li:nth-child(3) {
+    background-color: #87BBA2;
+}
+
