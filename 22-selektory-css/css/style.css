@@ -1,0 +1,43 @@
+/* Main Style - START */
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #2F4858;
+}
+/* Main Style - END */
+
+
+
+
+
+
+/* Heading Style - START */
+h1 {
+    background-color: #FCC95D;
+    color: #2F4858;
+}
+
+h3 {
+    background-color: #489B53;
+    color: #FCC95D;   
+}
+
+h1 + h3 {
+    color: #2F4858;
+}
+
+/* Heading Style - END */
+
+
+
+/* Paragraf Style - START */
+p {
+    background-color: #85AD4C;
+    color: #000000;
+}
+
+/* Paragraf Style - END */
