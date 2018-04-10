@@ -1,0 +1,146 @@
+/* General Style - START */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #4CAF50;
+}
+
+/* General Style - END */
+
+/* Main Box Style - START */
+
+div#main {
+    width: 388px;
+    height: 388px;
+    border: 5px solid #fff;
+    background-color: #000;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+/* Main Box Style - END */
+
+/* Mini Box Style - START */
+
+div#main > div {
+    width: 126px;
+    height: 126px;
+    border: 2px solid white;
+    position: absolute;
+}
+
+div#main > div[id^="top"] {
+    top: 0;
+}
+
+div#main > div[id^="bottom"] {
+    bottom: 0;
+}
+
+div#main > div[id^="middle"] {
+    top: 129px;
+}
+
+div#main > div[id$="left"] {
+    left: 0;
+}
+
+div#main > div[id$="right"] {
+    right: 0;
+}
+
+div#main > div[id$="center"] {
+    left: 129px;
+}
+
+div#main > div#top_left {
+    background-color: #fe0000;
+}
+
+div#main > div#top_center {
+    background-color: #0000fe;
+}
+
+div#main > div#top_right {
+    background-color: #008001;
+}
+
+div#main > div#middle_left {
+    background-color: #ffff01;
+}
+
+div#main > div#middle_center {
+    background-color: #000;
+}
+
+div#main > div#middle_right {
+    background-color: #fea500;
+}
+
+div#main > div#bottom_left {
+    background-color: #81007f;
+}
+
+div#main > div#bottom_center {
+    background-color: #808080;
+}
+
+div#main > div#bottom_right {
+    background-color: #ffc0cb;
+}
+
+/* Mini Box Style - END */
+
+/* Circle Style - START */
+
+div#main > div > div.circle {
+    height: 64px;
+    width: 64px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+div#main > div#top_left > div.circle {
+    background-color: #ffc0cb;
+}
+
+div#main > div#top_center > div.circle {
+    background-color: #808080;
+}
+
+div#main > div#top_right > div.circle {
+    background-color: #81007f;
+}
+
+div#main > div#middle_left > div.circle {
+    background-color: #008001;
+}
+
+div#main > div#middle_center > div.circle {
+    background-color: #fe0000;
+}
+
+div#main > div#middle_right > div.circle {
+    background-color: #0000fe;
+}
+
+div#main > div#bottom_left > div.circle {
+    background-color: #fea500;
+}
+
+div#main > div#bottom_center > div.circle {
+    background-color: #ffff01;
+}
+
+div#main > div#bottom_right > div.circle {
+    background-color: #000;
+}
+
+/* Circle Style - END */
