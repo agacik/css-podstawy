@@ -1,0 +1,26 @@
+/* Main Style - START */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: #808080;
+    
+    margin: 20px;
+}
+/* Main Style - END */
+
+/* Kwadraty Style - START */
+div {
+    width: 100px;
+    height: 100px;
+    
+    background-color: #fea500;
+    
+    margin: 10px;
+}
+
+/* Kwadraty Style - END */
