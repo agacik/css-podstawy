@@ -1,0 +1,23 @@
+body {
+    background-color: #C3FCF2;
+}
+
+h1 {
+    background-color: #FCAB0B;
+}
+
+h2 {
+    background-color: #98AC20;
+}
+
+p {
+    background-color: #3D9C52;
+}
+
+p:nth-of-type(2) {
+    background-color: #008371;
+}
+
+ul {
+    background-color: #006673;    
+}

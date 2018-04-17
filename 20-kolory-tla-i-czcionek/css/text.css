@@ -1,0 +1,19 @@
+h1 {
+    color: #005248;
+}
+
+h2 {
+    color: #006673;;
+}
+
+p {
+    color: #98AC20;
+}
+
+p:nth-of-type(2) {
+    color: #FCAB0B;
+}
+
+ul {
+    color: #C3FCF2;    
+}
