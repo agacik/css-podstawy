@@ -1,0 +1,23 @@
+p {
+    width: 100px;
+    height: 100px;
+    list-style-type: square;
+    background-color: #00DC94;
+    margin: 20px;
+}
+
+p:first-of-type {
+   background-color: #533025; 
+}
+
+p:last-child {
+   background-color: #FCAB0B; 
+}
+
+p:nth-child(8) {
+   background-color: #C25450; 
+}
+
+p:nth-child(4n) {
+   opacity: 0.5; 
+}
