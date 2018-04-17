@@ -1,0 +1,13 @@
+Stwórz w HTML sekcjê, w której znajdzie siê:
+
+1. G³ówny tytu³
+2. Przyk³adowy tekst 
+3. Podtytu³ 
+4. Przyk³adowy tekst 
+5. Lista zawieraj¹ca 5 podpunktów
+
+Nastêpnie nadaj kolor t³a dla ca³ej strony oraz ró¿ne kolory t³a ka¿dego punktu wymienionego powy¿ej.
+
+Do³¹cz do projektu kolejny arkusz styli, w którym nadasz ró¿ne kolory czcionek dla poszczególnych punktów.
+
+W odpowiedzi podeœlij link do swojego repozytorium.
