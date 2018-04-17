@@ -1,0 +1,6 @@
+Stwórz w HTML 10 paragrafów, a nastêpnie w stylach zdefinuj ich wysokoœæ i szerokoœæ na 100px.
+
+Dodaj wybrany kolor t³a wszystkim paragrafom. 
+Natepnie trzem wybranym paragrafom zmieñ kolor t³a, a do innych dwóch dodaj przezroczystoœæ (w³aœciwoœæ opacity).
+
+W odpowiedzi podeœlij link do Twojego repozytorium.
